@@ -32,3 +32,29 @@ I left my studies for personal reasons, but passed differentiation, and succeede
 ### MEng Games Development
 #### QUB | 1st Class Honours | Sept 2013 - July 2018
 My [Dissertation](docs/Dissertation.pdf) was based on the Reverse Generation of Games, so that puzzles could be generated on the fly. I thrived working with OpenGL and C++ in this course, and built a strong programming foundation.
+
+## Projects
+
+### Enterprise Projects
+
+#### CI/CD Work
+Maintain ownership of office's CI/CD pipeline, manage build boxes with SALT, Jenkins, and VMWare. 
+I work on upgrading libraries/dependencies, as well as ensuring projects have code coverage through Sonar.
+
+#### Permissions Software
+I've worked on various projects for the Security Policy Manager team at iManage, building software to ensure that solicitors only have access to files that they are supposed to.
+This often involves working with very large datasets, and making sure that programs are efficient.
+
+#### Predictive Modelling
+Created Loss Models of Car/Property Claims to minimise losses to company.
+
+### Personal Projects
+
+#### Chat analyser
+I pulled all my conversation data from Facebook and Whatsapp, and built a database in MongoDB where I could search for and view all my messages. I then built a back end through Python, exposing an Rest API to a front end, which I then built in React. This was started as a casual project to make a 'On this day' feature for my past messages, but ended up with a solid project.
+
+#### Various Game Projects
+I enjoy spending my free time developing games in Unity/C#. I've not released anything as of yet, but it's fun none the less. Currently in the early stages of a Pong inspired rougelite. 
+
+#### Github Analyser
+As part of the PhD I began, I worked on making an analyser for Github using python and MongoDB. This utilised a public resource GHTorrent to pull public information about github projects, and build network graphs between projects based on contributions. This would have been used to analyse the quality of various FOSS projects, had I remained at the PhD.
